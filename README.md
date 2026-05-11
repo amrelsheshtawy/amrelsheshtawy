@@ -9,7 +9,7 @@
 - C++
 - Go
 - Python
-- Linux
+- Bash
 - Docker
 - Kubernetes
 - CUDA
