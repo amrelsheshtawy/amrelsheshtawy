@@ -1,5 +1,3 @@
-# Amr Elsheshtawy
-
 ## Areas of Interest
 - Systems Programming
 - Automation
